@@ -1,0 +1,17 @@
+div{
+    font-size: 15px;
+}
+#Titre {
+    font-weight: bold;
+    text-align:center;
+}
+#colG {
+    background-color:burlywood;
+}
+
+.content {
+    display: flex;
+}
+div span {
+    font-style:italic
+}
