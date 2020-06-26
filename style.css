@@ -1,17 +1,31 @@
-div{
+div {
     font-size: 15px;
 }
+
 #Titre {
     font-weight: bold;
-    text-align:center;
-}
-#colG {
-    background-color:burlywood;
+    text-align: center;
 }
 
+.colonne {
+    width: 50%; 
+   
+}
+.duo1 {
+    background-color: black;
+    color: white;
+}
+.duo2 {
+    background-color: purple;
+    color: yellow;
+}
 .content {
+    width: 70%;
     display: flex;
 }
+
 div span {
-    font-style:italic
+    font-style: italic
 }
+
+
